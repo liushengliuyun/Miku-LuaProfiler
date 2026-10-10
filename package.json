@@ -1,0 +1,25 @@
+{
+  "name": "com.miku.luaprofiler",
+  "displayName": "Miku LuaProfiler",
+  "version": "4.0.2",
+  "unity": "2019.4",
+  "keywords": [
+    "luaprofiler",
+    "lua",
+    "profiler",
+    "xlua",
+    "unity",
+    "performance"
+  ],
+  "author": {
+    "name": "liushengliuyun",
+    "url": "https://github.com/liushengliuyun"
+  },
+  "description": "Lua Profiler for Unity (XLua). Maintained fork of leinlin/Miku-LuaProfiler with bugfixes: profiler data-freeze after scene entry, configurable Copy-Subtree depth, currentTime/selfTime accumulation fix.",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liushengliuyun/Miku-LuaProfiler.git"
+  },
+  "relatedPackages": {}
+}

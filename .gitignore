@@ -1,0 +1,12 @@
+.vs/
+.idea/
+obj/
+bin/
+*.csproj
+*.user
+*.userprefs
+.DS_Store
+Temp/
+Library/
+capture*
+*.sample
